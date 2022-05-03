@@ -1,0 +1,16 @@
+Queries used:
+
+suite.json:
+http://localhost:8983/solr/hotels/select?indent=true&q.op=OR&q=hotel_name%3A%22suite%22%20OR%20hotel_address%3A%22suite%22%20OR%20hotel_country%3A%22suite%22
+
+hostel.json:
+http://localhost:8983/solr/hotels/select?indent=true&q.op=OR&q=hotel_name%3A%22hostel%22%20OR%20hotel_address%3A%22hostel%22%20OR%20hotel_country%3A%22hostel%22
+
+lai_ming_hotel_cosmoland.json:
+http://localhost:8983/solr/hotels/select?indent=true&q.op=OR&q=hotel_name%3A%22Lai%20Ming%20Hotel%20Cosmoland%22%20OR%20hotel_address%3A%22Lai%20Ming%20Hotel%20Cosmoland%22%20OR%20hotel_country%3A%22Lai%20Ming%20Hotel%20Cosmoland%22
+
+hotel_81.json:
+http://localhost:8983/solr/hotels/select?indent=true&q.op=OR&q=(hotel_name%3A%22Hotel%2081%22%20OR%20hotel_address%3A%22Hotel%2081%22%20OR%20hotel_country%3A%22Hotel%2081%22)%20AND%20hotel_rating%3A%5B8%20TO%20*%5D
+
+hotel.json:
+http://localhost:8983/solr/hotels/select?d=25&fq=%7B!geofilt%7D&indent=true&pt=13.7563309%2C100.5017651&q.op=OR&q=hotel_name%3A%22hotel%22%20OR%20hotel_address%3A%22hotel%22%20OR%20hotel_country%3A%22hotel%22&sfield=hotel_location&sort=geodist()%20asc

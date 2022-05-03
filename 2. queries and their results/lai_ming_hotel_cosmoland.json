@@ -1,0 +1,363 @@
+{
+  "responseHeader":{
+    "status":0,
+    "QTime":58,
+    "params":{
+      "q":"hotel_name:\"Lai Ming Hotel Cosmoland\" OR hotel_address:\"Lai Ming Hotel Cosmoland\" OR hotel_country:\"Lai Ming Hotel Cosmoland\"",
+      "indent":"true",
+      "q.op":"OR"}},
+  "response":{"numFound":1,"start":0,"numFoundExact":true,"docs":[
+      {
+        "hotel_name":"Lai Ming Hotel Cosmoland (SG Clean, Staycation Approved)",
+        "hotel_address":"424 Geylang Road, 389395 Singapore, Singapore",
+        "hotel_location":"1.31311169,103.88316644",
+        "hotel_rating":7.3,
+        "hotel_description":"Lai Ming Hotel Cosmoland is located in Singapore, 1.3 miles from Singapore Sports Hub, and has a fitness centre and barbecue facilities. With free WiFi, this 3-star hotel offers a 24-hour front desk. The accommodation provides a shared kitchen, and organising tours for guests.\nAll units at the hotel are equipped with a seating area. The private bathroom is fitted with free toiletries. The units at Lai Ming Hotel Cosmoland include air conditioning and a desk.\nAn Asian breakfast is available every morning at the property. Free bottled water is also provided.\nThe accommodation offers a sun terrace.\nLai Ming Hotel Cosmoland provides an ironing service, as well as business facilities like fax and photocopying.\nSuntec City is 2.4 miles from the hotel while Aljunied MRT Station is a 5-minute walk away.",
+        "hotel_country":"Singapore",
+        "hotel_num_reviews":229,
+        "unique_tags":["Standard Twin Room",
+          "Stayed 4 nights",
+          "Stayed 12 nights",
+          "Submitted via mobile",
+          "Stayed 1 night",
+          "Stayed 9 nights",
+          "Solo traveller",
+          "Family Double Room",
+          "Business trip",
+          "Stayed 7 nights",
+          "Standard Triple Room",
+          "Leisure trip",
+          "Stayed 5 nights",
+          "People with friends",
+          "Stayed 2 nights",
+          "Family with young children",
+          "Couple",
+          "Stayed 3 nights",
+          "Standard Double Room",
+          "Stayed 6 nights",
+          "Standard Family Room",
+          "Group"],
+        "hotel_img_url":"https://t-cf.bstatic.com/xdata/images/hotel/max500/267607103.jpg?k=ee17c8a1c1c0d9c461021a25a733b8223092d9d911f438d49256e6aaf95ad964&o=&hp=1",
+        "hotel_link":"https://www.booking.com/hotel/sg/lai-ming-cosmoland-li-ming-lu-dian.en-gb.html?label=gen173nr-1FCCooyQE4lwNICVgEaK0CiAEBmAEJuAEYyAEM2AEB6AEB-AECiAIBqAIEuALRqKSSBsACAdICJDEwZmRjYjZhLWU0ZDMtNGQyMS04YzA5LTEzMmI1OWE0OTM1ZdgCBeACAQ;sid=92fa111773186e92d48a84765561a937",
+        "unique_review_country":["nan",
+          "Italy",
+          "Cambodia",
+          "Singapore",
+          "United Arab Emirates",
+          "Netherlands",
+          "Myanmar",
+          "United Kingdom",
+          "Philippines",
+          "Vietnam",
+          "India",
+          "Indonesia",
+          "South Africa",
+          "Iceland",
+          "Thailand",
+          "Malaysia",
+          "Germany",
+          "Sweden",
+          "Spain",
+          "Qatar",
+          "New Zealand",
+          "Oman",
+          "Saudi Arabia",
+          "United States",
+          "Australia",
+          "Sri Lanka"],
+        "best_noun":["location",
+          "staff",
+          "hotel"],
+        "worst_noun":["room",
+          "bed",
+          "breakfast"],
+        "features_room":false,
+        "features_facilities":false,
+        "features_location":true,
+        "features_staff":false,
+        "features_food":true,
+        "pos_review_count":28,
+        "neg_review_count":22,
+        "id":"e0f385ac-e5c8-4748-9e64-c82e1bc69ebf",
+        "_version_":1729439040076251136}]
+  },
+  "spellcheck":{
+    "suggestions":[
+      "cosmoland",{
+        "numFound":1,
+        "startOffset":27,
+        "endOffset":36,
+        "origFreq":1,
+        "suggestion":[{
+            "word":"cosmo land",
+            "freq":5}]},
+      "cosmoland",{
+        "numFound":1,
+        "startOffset":71,
+        "endOffset":80,
+        "origFreq":1,
+        "suggestion":[{
+            "word":"cosmo land",
+            "freq":5}]},
+      "cosmoland",{
+        "numFound":1,
+        "startOffset":115,
+        "endOffset":124,
+        "origFreq":1,
+        "suggestion":[{
+            "word":"cosmo land",
+            "freq":5}]},
+      "lai",{
+        "numFound":9,
+        "startOffset":12,
+        "endOffset":15,
+        "origFreq":2,
+        "suggestion":[{
+            "word":"la",
+            "freq":10},
+          {
+            "word":"ladprao",
+            "freq":17},
+          {
+            "word":"laem",
+            "freq":7},
+          {
+            "word":"laksi",
+            "freq":8},
+          {
+            "word":"lane",
+            "freq":14},
+          {
+            "word":"lang",
+            "freq":8},
+          {
+            "word":"lat",
+            "freq":8},
+          {
+            "word":"lavender",
+            "freq":30},
+          {
+            "word":"little",
+            "freq":24}]},
+      "ming",{
+        "numFound":9,
+        "startOffset":16,
+        "endOffset":20,
+        "origFreq":1,
+        "suggestion":[{
+            "word":"mangkon",
+            "freq":2},
+          {
+            "word":"mango",
+            "freq":2},
+          {
+            "word":"minami",
+            "freq":6},
+          {
+            "word":"minamihonmachi",
+            "freq":2},
+          {
+            "word":"minamisenba",
+            "freq":5},
+          {
+            "word":"minato",
+            "freq":3},
+          {
+            "word":"minatomachi",
+            "freq":2},
+          {
+            "word":"minburi",
+            "freq":3},
+          {
+            "word":"minn",
+            "freq":2}]},
+      "hotel",{
+        "numFound":5,
+        "startOffset":21,
+        "endOffset":26,
+        "origFreq":851,
+        "suggestion":[{
+            "word":"homely",
+            "freq":1},
+          {
+            "word":"hostel",
+            "freq":154},
+          {
+            "word":"hostels",
+            "freq":1},
+          {
+            "word":"hotels",
+            "freq":5},
+          {
+            "word":"htel",
+            "freq":1}]},
+      "lai",{
+        "numFound":9,
+        "startOffset":56,
+        "endOffset":59,
+        "origFreq":2,
+        "suggestion":[{
+            "word":"la",
+            "freq":10},
+          {
+            "word":"ladprao",
+            "freq":17},
+          {
+            "word":"laem",
+            "freq":7},
+          {
+            "word":"laksi",
+            "freq":8},
+          {
+            "word":"lane",
+            "freq":14},
+          {
+            "word":"lang",
+            "freq":8},
+          {
+            "word":"lat",
+            "freq":8},
+          {
+            "word":"lavender",
+            "freq":30},
+          {
+            "word":"little",
+            "freq":24}]},
+      "ming",{
+        "numFound":9,
+        "startOffset":60,
+        "endOffset":64,
+        "origFreq":1,
+        "suggestion":[{
+            "word":"mangkon",
+            "freq":2},
+          {
+            "word":"mango",
+            "freq":2},
+          {
+            "word":"minami",
+            "freq":6},
+          {
+            "word":"minamihonmachi",
+            "freq":2},
+          {
+            "word":"minamisenba",
+            "freq":5},
+          {
+            "word":"minato",
+            "freq":3},
+          {
+            "word":"minatomachi",
+            "freq":2},
+          {
+            "word":"minburi",
+            "freq":3},
+          {
+            "word":"minn",
+            "freq":2}]},
+      "hotel",{
+        "numFound":5,
+        "startOffset":65,
+        "endOffset":70,
+        "origFreq":851,
+        "suggestion":[{
+            "word":"homely",
+            "freq":1},
+          {
+            "word":"hostel",
+            "freq":154},
+          {
+            "word":"hostels",
+            "freq":1},
+          {
+            "word":"hotels",
+            "freq":5},
+          {
+            "word":"htel",
+            "freq":1}]},
+      "lai",{
+        "numFound":9,
+        "startOffset":100,
+        "endOffset":103,
+        "origFreq":2,
+        "suggestion":[{
+            "word":"la",
+            "freq":10},
+          {
+            "word":"ladprao",
+            "freq":17},
+          {
+            "word":"laem",
+            "freq":7},
+          {
+            "word":"laksi",
+            "freq":8},
+          {
+            "word":"lane",
+            "freq":14},
+          {
+            "word":"lang",
+            "freq":8},
+          {
+            "word":"lat",
+            "freq":8},
+          {
+            "word":"lavender",
+            "freq":30},
+          {
+            "word":"little",
+            "freq":24}]},
+      "ming",{
+        "numFound":9,
+        "startOffset":104,
+        "endOffset":108,
+        "origFreq":1,
+        "suggestion":[{
+            "word":"mangkon",
+            "freq":2},
+          {
+            "word":"mango",
+            "freq":2},
+          {
+            "word":"minami",
+            "freq":6},
+          {
+            "word":"minamihonmachi",
+            "freq":2},
+          {
+            "word":"minamisenba",
+            "freq":5},
+          {
+            "word":"minato",
+            "freq":3},
+          {
+            "word":"minatomachi",
+            "freq":2},
+          {
+            "word":"minburi",
+            "freq":3},
+          {
+            "word":"minn",
+            "freq":2}]},
+      "hotel",{
+        "numFound":5,
+        "startOffset":109,
+        "endOffset":114,
+        "origFreq":851,
+        "suggestion":[{
+            "word":"homely",
+            "freq":1},
+          {
+            "word":"hostel",
+            "freq":154},
+          {
+            "word":"hostels",
+            "freq":1},
+          {
+            "word":"hotels",
+            "freq":5},
+          {
+            "word":"htel",
+            "freq":1}]}],
+    "correctlySpelled":false,
+    "collations":[]}}
